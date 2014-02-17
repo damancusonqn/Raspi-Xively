@@ -1,0 +1,4 @@
+Some experiments with Raspberry Pi: 
+* Connecting different Temperature and Humidity sensors to the Raspberry Pi (including DS18200 and DHT-10/20)
+* Feeding the data to a Xively cloud database
+* Sending push notification to a NotifiMyAndroid account
